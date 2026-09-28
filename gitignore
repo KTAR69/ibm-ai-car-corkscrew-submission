@@ -1,0 +1,16 @@
+# Prevent uploading large video files to Git
+*.mp4
+*.mkv
+*.mov
+*.avi
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
